@@ -1,0 +1,9 @@
+SaleChannel,ServiceType,ShippingCompany
+Amazon.in,regular,Easy Ship
+Amazon.in,regular,Amazon
+Amazon.in,prime,Easy Ship
+Amazon.in,prime,Amazon
+Non-Amazon,regular,Easy Ship
+Non-Amazon,regular,Amazon
+Non-Amazon,prime,Easy Ship
+Non-Amazon,prime,Amazon
